@@ -118,9 +118,8 @@ fig.show()
 
 ## Recommendations
 
-- Policymakers in high-cost regions, particularly in the Americas, should consider subsidies or interventions targeting fruit and vegetable affordability
+- Policymakers in high-cost regions should consider subsidies or interventions targeting fruit and vegetable affordability
 - Future monitoring should track the post-2020 cost increase to determine whether it stabilizes or continues rising
-- Organizations working on food security should prioritize the countries identified in the "most expensive" rankings for further investigation
 
 ## Limitations
 
